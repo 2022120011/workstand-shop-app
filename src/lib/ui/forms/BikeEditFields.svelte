@@ -28,7 +28,7 @@
 		>Suggested Donation</Field
 	>
 	<Field name="cpicDate" type="date" bind:value={$bikeForm.cpicDate}>CPIC Date</Field>
-	<Field name="recipientName" bind:value={$bikeForm.recipientName}>Recipient Name</Field>
+	<Field name="recipientName" bind:value={$bikeForm.recipientName}>Recipient Full Name</Field>
 	<Field name="recipientAge" list="recipient-ages" bind:value={$bikeForm.recipientAge}
 		>Recipient Age</Field
 	>
