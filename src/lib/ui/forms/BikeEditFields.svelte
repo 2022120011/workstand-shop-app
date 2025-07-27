@@ -15,7 +15,7 @@
 
 <fieldset>
 	<Field name="serialNumber" bind:value={$bikeForm.serialNumber}>Serial Number</Field>
-	<Field name="make" bind:value={$bikeForm.make}>Make</Field>
+	<Field name="make" bind:value={$bikeForm.make}>Make and Model</Field>
 	<Field name="colour" bind:value={$bikeForm.colour}>Colour</Field>
 	<Field name="donatedBy" list="donated-sources" bind:value={$bikeForm.donatedBy}>Donated By</Field>
 	<datalist id="donated-sources">
