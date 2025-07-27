@@ -58,12 +58,9 @@
 		>BCBC Program</Field
 	>
 	<datalist id="bcbc-programs">
-		<option value="Bike Sale Fundraiser"></option>
+		<option value="Bike Sale"></option>
 		<option value="Kids Bike Giveaway"></option>
-		<option value="ODS"></option>
-		<option value="Online Sale"></option>
 		<option value="Open Hours"></option>
-		<option value="The Bridge Workshop"></option>
 		<option value="Women and Queer Program"></option>
 		<option value="Youth Build-a-Bicycle Workshops"></option>
 	</datalist>
